@@ -22,8 +22,3 @@ The company receives ₹50,000 as capital from its owner. The amount is deposite
 ## SAP Learning Objective
 Understand the debit and credit logic of a basic General Ledger transaction and identify the corresponding accounts in SAP S/4HANA Finance.
 
-## Practice Status
-Accounting scenario documented. SAP posting and verification are pending.
-
-## Important Note
-This is a fictional learning scenario. No live SAP posting has been confirmed.
