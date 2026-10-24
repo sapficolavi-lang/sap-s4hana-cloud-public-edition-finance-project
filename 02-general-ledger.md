@@ -15,9 +15,16 @@ The company receives ₹50,000 as capital from its owner. The amount is deposite
 | **Total** | **50,000** | **50,000** |
 
 ## Accounting Explanation
-- Bank is debited because the company's bank asset increases.
-- Owner's Capital is credited because the owner's equity increases.
-- Total debits equal total credits.
+- Bank Account (Debit):The company receives ₹50,000 in its bank account. Bank is an asset, and an increase in an asset is recorded as a debit.
+
+  -Owner's Capital (Credit): The owner invests ₹50,000 in the business. Capital represents the owner's equity, and an increase in equity is recorded as a credit.
+
+- Accounting Principle: Every journal entry must have equal total debits and total credits.
+
+- Business Impact: The company's bank balance and owner's equity both increase by ₹50,000.
+
+- Project Status: This is a self-created accounting scenario for learning purposes. It has not yet been posted in SAP.
+
 
 ## SAP Learning Objective
 Understand the debit and credit logic of a basic General Ledger transaction and identify the corresponding accounts in SAP S/4HANA Finance.
